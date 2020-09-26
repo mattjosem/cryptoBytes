@@ -6,8 +6,8 @@ package Application;
 import java.math.BigInteger;
 
 /**
- * @author jr-99
- *
+ * @author Joseph Rushford
+ * @author Matthew Molina
  */
 public class EllipticCurve implements Comparable<EllipticCurve> {
 	BigInteger mersennePrime;

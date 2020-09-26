@@ -2,6 +2,11 @@ package Application;
 
 import java.math.BigInteger;
 
+/**
+ * @author Joseph Rushford
+ * @author Matthew Molina
+ */
+
 public class PseudoUnion {
 	private long myLong;
 	private byte[] myBits;
